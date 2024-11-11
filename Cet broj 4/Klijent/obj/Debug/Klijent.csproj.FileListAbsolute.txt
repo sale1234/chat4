@@ -1,0 +1,13 @@
+C:\Users\Filip\Desktop\Cet broj 4\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Filip\Desktop\Cet broj 4\Klijent\bin\Debug\Klijent.exe
+C:\Users\Filip\Desktop\Cet broj 4\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Filip\Desktop\Cet broj 4\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Filip\Desktop\Cet broj 4\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Filip\Desktop\Cet broj 4\Klijent\obj\Debug\Klijent.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Cet broj 4\Klijent\obj\Debug\Klijent.FrmKlijent.resources
+C:\Users\Filip\Desktop\Cet broj 4\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Filip\Desktop\Cet broj 4\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\Cet broj 4\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Cet broj 4\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\Filip\Desktop\Cet broj 4\Klijent\obj\Debug\Klijent.exe
+C:\Users\Filip\Desktop\Cet broj 4\Klijent\obj\Debug\Klijent.pdb
